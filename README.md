@@ -5,7 +5,7 @@
 # Some things i'm learning are:
 
 ## languages:
-<img src="https://camo.githubusercontent.com/b449f10e4a9af27bbe5db205b455a8f1a80d1c71f816b094bcf998c252627fec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C" data-canonical-src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
+![Common Lisp](https://badges.ws/badge/Common%20Lisp-8A2BE2?style=flat-square)
 
 
 ## i already know:
