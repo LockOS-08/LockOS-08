@@ -13,6 +13,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&size=150%)
 ![CSS3](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white&size=150%)
 ![BASH](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&size=150%)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white&size=150%)
 
 # i use mint btw
 ![Mint](https://img.shields.io/badge/Linux%20Mint-86BE43?style=for-the-badge&logo=linuxmint&logoColor=white&size=150%)
