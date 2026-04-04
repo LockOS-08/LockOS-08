@@ -5,7 +5,7 @@
 # Some things i'm learning are:
 
 ## languages:
-![Common Lisp](https://badges.ws/badge/Common%20Lisp-3C3C3C?style=flat-square)
+![commonlisp](https://badges.ws/badge/Common%20Lisp-3C3C3C?style=flat-square)
 
 
 ## i already know:
