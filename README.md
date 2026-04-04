@@ -5,7 +5,7 @@
 # Some things i'm learning are:
 
 ## languages:
-[<img src="https://simpleicons.org/icons/commonlisp.svg" />](https://your-project.link)
+![Common Lisp](https://img.shields.io/badge/Common%20Lisp-000000?style=for-the-badge&logo=commonlisp&logoColor=white)
 
 
 ## i already know:
