@@ -5,7 +5,6 @@
 # Some things i'm learning are:
 
 ## languages:
-![Common Lisp](https://img.shields.io/badge/Common%20Lisp-000000?style=for-the-badge&logo=commonlisp&logoColor=white&size=150%)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&size=150%)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&size=150%)
 
@@ -14,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white&size=150%)
 ![BASH](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&size=150%)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white&size=150%)
+![Common Lisp](https://img.shields.io/badge/Common%20Lisp-000000?style=for-the-badge&logo=commonlisp&logoColor=white&size=150%)
 
 # i use mint btw
 ![Mint](https://img.shields.io/badge/Linux%20Mint-86BE43?style=for-the-badge&logo=linuxmint&logoColor=white&size=150%)
